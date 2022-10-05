@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1649611641 source:d:\workplace\coding\poo proiect\joc\joc.cpp
+	<iostream>
+	"joc.h"
+	<stdlib.h>
+
+1649610131 d:\workplace\coding\poo proiect\joc\joc.h
+
+1649611690 source:d:\workplace\coding\poo proiect\joc\main.cpp
+	<iostream>
+	<stdlib.h>
+	"joc.h"
+
